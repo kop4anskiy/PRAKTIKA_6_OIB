@@ -61,7 +61,7 @@
 
 ![](https://raw.githubusercontent.com/kop4anskiy/prac6/main/Screenshot_6.png)
 
-в битвисе много функций, на самом-то деле
+в битвисе много функций, на самом-то деле,
 можно открыть консоль, контрольную панель, SFTP протокол:
 
 ![](https://raw.githubusercontent.com/kop4anskiy/prac6/main/Screenshot_7.png)
