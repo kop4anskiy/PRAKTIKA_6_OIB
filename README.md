@@ -71,9 +71,29 @@
 ![](https://raw.githubusercontent.com/kop4anskiy/prac6/main/Screenshot_9.png)
 
 
+**СОЗДАЕМ ТЕСТОВЫЙ СЕРВЕР тупа изи пизи лемон сквизи**
 
+![](https://raw.githubusercontent.com/kop4anskiy/prac6/main/Screenshot_12.png)
 
+![](https://raw.githubusercontent.com/kop4anskiy/prac6/main/Screenshot_13.png)
 
+создаем 4096-битную пару ключей
+
+![](https://raw.githubusercontent.com/kop4anskiy/prac6/main/Screenshot_14.png)
+
+тут копируем айди ключа на сервер
+
+![](https://raw.githubusercontent.com/kop4anskiy/prac6/main/Screenshot_15.png)
+
+проверяем функционирование данного сервера 
+
+![](https://raw.githubusercontent.com/kop4anskiy/prac6/main/Screenshot_16.png)
+
+![](https://raw.githubusercontent.com/kop4anskiy/prac6/main/Screenshot_17.png)
+
+генерируем SSH-ключ для доступа на сервер
+
+![](https://raw.githubusercontent.com/kop4anskiy/prac6/main/Screenshot_18.png)
 
 **А ВОТ И КОНЕЦ 6 ПРАКТИКИ, 6 ИЗ 8 сделаны**
 
