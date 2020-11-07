@@ -113,3 +113,5 @@
 ***КОГДА ПОНИМАЕШЬ, ЧТО БЛИЗОК К АВТОМАТУ КЧАУ, ХОЧУ СПАТЬ***
 
 ![КОГДА ПОНИМАЕШЬ, ЧТО БЛИЗОК К АВТОМАТУ КЧАУ, ХОЧУ СПАТЬ](https://raw.githubusercontent.com/kop4anskiy/prac6/main/upearKZO99c.jpg)
+
+![](https://raw.githubusercontent.com/kop4anskiy/prac6/main/kchau-2.jpg)
