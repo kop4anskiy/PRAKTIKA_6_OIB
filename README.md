@@ -36,7 +36,7 @@
 
 ![](https://raw.githubusercontent.com/kop4anskiy/prac6/main/1.jpg)
 
-![](https://raw.githubusercontent.com/kop4anskiy/prac6/main/6.png)
+![](https://raw.githubusercontent.com/kop4anskiy/prac6/main/6.jpg)
 
 **SSH kali linux**
 
