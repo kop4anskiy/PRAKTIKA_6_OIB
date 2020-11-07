@@ -41,9 +41,9 @@
 
 подключился по ипишнику и порту, и прописал в консоли ***хелло ит'c ми марио***
 
-![](https://raw.githubusercontent.com/kop4anskiy/prac6/main/Screenshot_5.png)
-
 ![](https://raw.githubusercontent.com/kop4anskiy/prac6/main/Screenshot_4.png)
+
+![](https://raw.githubusercontent.com/kop4anskiy/prac6/main/Screenshot_5.png)
 
 ***Pussy GENERATE***
 
