@@ -20,6 +20,9 @@
 
 **RDP**
 
+*Вот так вот подключаемся к компудахтеру через телефон*
+
+![](https://raw.githubusercontent.com/kop4anskiy/prac6/main/1)
 
 
 
