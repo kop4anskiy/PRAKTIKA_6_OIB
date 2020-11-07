@@ -8,11 +8,9 @@
 
 ![](https://raw.githubusercontent.com/kop4anskiy/prac6/main/Screenshot_1.png)
 
-**подключился к компу со своего огрызка, чуток побаловался(всё в гифке)**
+**подключился к компу со своего огрызка, чуток побаловался и перекинул файлы(всё в гифке)**
 
 ![](https://media2.giphy.com/media/CwwPnh2AYeJnVCidOt/giphy.gif)
 
-**перекинул файлы**
-
-![](https://media.giphy.com/media/hwQT536O0ihgzdwknl/source.gif)
+![](https://gph.is/g/apL0d0x)
 
