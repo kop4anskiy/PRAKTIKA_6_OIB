@@ -20,13 +20,23 @@
 
 **RDP**
 
+вводим айпишник, который мы узнали после ввода в КС, порт всегда посстояный (3389), удалённо подключаемся и можем делать всё, что захотим(перед этим выдав разрешение)
+
+![](https://raw.githubusercontent.com/kop4anskiy/prac6/main/2.jpg)
+
+![](https://raw.githubusercontent.com/kop4anskiy/prac6/main/3.jpg)
+
+*устанавливаем реммину через консольку, настраиваем всё как надо, и ву-а-ля, есть подключение
+
+![](https://raw.githubusercontent.com/kop4anskiy/prac6/main/5.jpg)
+
+![](https://raw.githubusercontent.com/kop4anskiy/prac6/main/4.jpg)
+
 *Вот так вот подключаемся к компудахтеру через телефон*
 
 ![](https://raw.githubusercontent.com/kop4anskiy/prac6/main/1.jpg)
 
-
-
-
+![](https://raw.githubusercontent.com/kop4anskiy/prac6/main/6.jpg)
 
 **SSH kali linux**
 
