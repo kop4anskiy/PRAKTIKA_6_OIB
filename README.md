@@ -108,7 +108,7 @@
 
 ![](https://raw.githubusercontent.com/kop4anskiy/prac6/main/9.png)
 
-![](https://raw.githubusercontent.com/kop4anskiy/prac6/main/11.png)
+![](https://raw.githubusercontent.com/kop4anskiy/prac6/main/12.png)
 
 генерируем SSH-ключ для доступа на сервер
 
