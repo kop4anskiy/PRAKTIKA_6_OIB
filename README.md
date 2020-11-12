@@ -46,6 +46,8 @@
 
 ![](https://raw.githubusercontent.com/kop4anskiy/prac6/main/7-n0gICf0_E.jpg)
 
+![](https://raw.githubusercontent.com/kop4anskiy/prac6/main/8.png)
+
 ![](https://raw.githubusercontent.com/kop4anskiy/prac6/main/qdQyZJ6a738.jpg)
 
 ![](https://raw.githubusercontent.com/kop4anskiy/prac6/main/ntzaYw07Z0I.jpg)
